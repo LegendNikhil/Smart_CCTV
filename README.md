@@ -1,4 +1,4 @@
-# 🎥 Smart CCTV: Computer Vision & Machine Learning–Based Surveillance System
+# 🎥 Smart CCTV: An IntegratedapproachofComputer Vision and MachineLearningfor Advanced Surveillance
 
 A **Smart CCTV surveillance system** that enhances traditional video monitoring by integrating **computer vision and machine learning techniques** to enable **face recognition, motion detection, object monitoring, noise detection, and visitor tracking** in real time. The system is implemented as a **Python-based GUI application** and operates on live webcam input.
 
